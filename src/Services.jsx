@@ -2,7 +2,9 @@ import React from 'react'
 
 function Services() {
   return (
-    <div>Services</div>
+    <form>
+        i am not able to create it due to lack of time
+    </form>
   )
 }
 
